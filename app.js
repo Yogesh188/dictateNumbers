@@ -1,5 +1,5 @@
 // App.js
-import NumberDictation from "./NumberDictation";
+import NumberDictation from "./";
 
 export default function App() {
   return (
